@@ -1,0 +1,1 @@
+future-suspension>=2.3.5
